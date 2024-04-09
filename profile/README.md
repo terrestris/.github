@@ -7,7 +7,7 @@ We offer custom project solutions, connect you with communities and provide gene
 
 [![terrestris logo](https://github.com/terrestris/.github/assets/227934/5cf71a37-aefc-4e86-ad15-67540ec01a84 "terrestris logo")](https://terrestris.de)
 
-[terrestris.de](https://terrestris.de) | [info@terrestris.de](info@terrestris.de)
+[terrestris.de](https://terrestris.de) | [info@terrestris.de](mailto:info@terrestris.de)
 
 [LinkedIn](https://www.linkedin.com/company/terrestris-gmbh-co-kg/) | [Mastodon/Fediverse](https://bonn.social/@terrestris) | [Twitter](https://twitter.com/terrestrisde)
 
