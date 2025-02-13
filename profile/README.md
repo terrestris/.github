@@ -9,6 +9,6 @@ We offer custom project solutions, connect you with communities and provide gene
 
 [terrestris.de](https://terrestris.de) | [info@terrestris.de](mailto:info@terrestris.de)
 
-[LinkedIn](https://www.linkedin.com/company/terrestris-gmbh-co-kg/) | [Mastodon/Fediverse](https://bonn.social/@terrestris) | [X](https://twitter.com/terrestrisde)
+[LinkedIn](https://www.linkedin.com/company/terrestris-gmbh-co-kg/) | [Mastodon/Fediverse](https://bonn.social/@terrestris)
 
 We are looking forward to talking about all things FOSS4G!
